@@ -1,0 +1,7 @@
+com\xworkz\chocolate\service\ChocolateService.class
+com\xworkz\chocolate\service\ChocolateServiceImpl.class
+com\xworkz\chocolate\repo\ChocolateRepoImpl.class
+com\xworkz\chocolate\dto\ChocolateDTO.class
+com\xworkz\chocolate\repo\ChocolateRepo.class
+com\xworkz\chocolate\config\BeanConfig.class
+com\xworkz\chocolate\controller\ChocolateController.class
